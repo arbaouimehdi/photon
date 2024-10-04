@@ -1,0 +1,23 @@
+{
+  "name": "photon",
+  "displayName": "Photon",
+  "description": "VSCode Theme with high contrast",
+  "version": "0.0.1",
+  "publisher": "arbaouimehdi",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Photon High Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/photon-color-theme.json"
+      }
+    ]
+  }
+}
