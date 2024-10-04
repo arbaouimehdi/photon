@@ -19,5 +19,21 @@
         "path": "./themes/photon-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arbaouimehdi/photon.git"
+  },
+  "keywords": [
+    "theme",
+    "high contrast",
+    "photon",
+    "vscode"
+  ],
+  "author": {
+    "name": "Arbaoui Mehdi",
+    "email": "me@arbaouimehdi.dev",
+    "url": "https://github.com/arbaouimehdi"
+  },
+  "license": "MIT"
 }
